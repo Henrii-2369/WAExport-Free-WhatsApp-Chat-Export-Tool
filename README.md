@@ -1,7 +1,6 @@
 # WA Export - 100% Free WhatsApp Group Number Extractor
 
-![WA Export Banner](https://picsum.photos/1200/400)
-
+![WA Export Banner](https://wd-oss-us.oss-us-west-1.aliyuncs.com/waexport.wadesk.io/resources/img/1768185536448_hero-guide-how-to-import.webp)
 **WA Export** is the ultimate browser extension designed to help you export contacts from WhatsApp groups into Excel or CSV files instantly. It is secure, privacy-focused, and completely free to use.
 
 ## 🚀 Key Features
