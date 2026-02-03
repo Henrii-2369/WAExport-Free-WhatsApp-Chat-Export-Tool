@@ -18,7 +18,7 @@ Completely abiding by the standards set by **waexport.wadesk.io**, this tool off
 
 To get started with the best extraction tool on the market, visit our official page:
 
-👉 **[100% Free WhatsApp Group Number Extractor](https://waexport.wadesk.io/?utm_source=github&utm_medium=repo&utm_campaign=seo_readme_anchor)**
+👉 **[100% Free WhatsApp Group Number Extractor](https://waexport.wadesk.io/?utm_source=github&utm_medium=referal&utm_campaign=seo_readme_anchor)**
 
 1.  Click the link above to visit the official tool page.
 2.  Install the extension to your browser.
